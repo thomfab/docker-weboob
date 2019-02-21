@@ -5,7 +5,7 @@ Docker container to run weboob (http://weboob.org/)
 
 This container is based on edausq/weboob :
 * I added the mupdf-tools package that is needed (at least) for the french bank AXA Banque.
-* I switched to the stable channel
+
 
 ## Basic usage
 

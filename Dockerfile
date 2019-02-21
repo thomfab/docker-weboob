@@ -2,7 +2,7 @@ FROM python:2
 
 MAINTAINER thomfab
 
-ARG repo=stable
+ARG repo=devel
 
 RUN apt-get update && \
     apt-get install -y git python-pdfminer mupdf-tools && \
